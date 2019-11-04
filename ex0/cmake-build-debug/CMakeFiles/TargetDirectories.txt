@@ -1,0 +1,3 @@
+C:/Users/adi/Desktop/mtm/ex0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/adi/Desktop/mtm/ex0/cmake-build-debug/CMakeFiles/ex0.dir
+C:/Users/adi/Desktop/mtm/ex0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
