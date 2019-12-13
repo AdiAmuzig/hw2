@@ -122,32 +122,32 @@ ex0/fast:
 	$(MAKE) -f CMakeFiles\ex0.dir\build.make CMakeFiles/ex0.dir/build
 .PHONY : ex0/fast
 
-mtm_tot.obj: mtm_tot.c.obj
+part1.obj: part1.c.obj
 
-.PHONY : mtm_tot.obj
+.PHONY : part1.obj
 
 # target to build an object file
-mtm_tot.c.obj:
-	$(MAKE) -f CMakeFiles\ex0.dir\build.make CMakeFiles/ex0.dir/mtm_tot.c.obj
-.PHONY : mtm_tot.c.obj
+part1.c.obj:
+	$(MAKE) -f CMakeFiles\ex0.dir\build.make CMakeFiles/ex0.dir/part1.c.obj
+.PHONY : part1.c.obj
 
-mtm_tot.i: mtm_tot.c.i
+part1.i: part1.c.i
 
-.PHONY : mtm_tot.i
+.PHONY : part1.i
 
 # target to preprocess a source file
-mtm_tot.c.i:
-	$(MAKE) -f CMakeFiles\ex0.dir\build.make CMakeFiles/ex0.dir/mtm_tot.c.i
-.PHONY : mtm_tot.c.i
+part1.c.i:
+	$(MAKE) -f CMakeFiles\ex0.dir\build.make CMakeFiles/ex0.dir/part1.c.i
+.PHONY : part1.c.i
 
-mtm_tot.s: mtm_tot.c.s
+part1.s: part1.c.s
 
-.PHONY : mtm_tot.s
+.PHONY : part1.s
 
 # target to generate assembly for a file
-mtm_tot.c.s:
-	$(MAKE) -f CMakeFiles\ex0.dir\build.make CMakeFiles/ex0.dir/mtm_tot.c.s
-.PHONY : mtm_tot.c.s
+part1.c.s:
+	$(MAKE) -f CMakeFiles\ex0.dir\build.make CMakeFiles/ex0.dir/part1.c.s
+.PHONY : part1.c.s
 
 # Help Target
 help:
@@ -158,9 +158,9 @@ help:
 	@echo ... edit_cache
 	@echo ... ex0
 	@echo ... rebuild_cache
-	@echo ... mtm_tot.obj
-	@echo ... mtm_tot.i
-	@echo ... mtm_tot.s
+	@echo ... part1.obj
+	@echo ... part1.i
+	@echo ... part1.s
 .PHONY : help
 
 

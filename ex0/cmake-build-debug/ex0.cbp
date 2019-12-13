@@ -74,7 +74,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/adi/Desktop/mtm/ex0/mtm_tot.c">
+		<Unit filename="C:/Users/adi/Desktop/mtm/ex0/part1.c">
 			<Option target="ex0"/>
 		</Unit>
 		<Unit filename="C:/Users/adi/Desktop/mtm/ex0/CMakeLists.txt">

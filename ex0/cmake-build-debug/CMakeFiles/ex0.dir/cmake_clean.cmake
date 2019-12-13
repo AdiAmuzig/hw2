@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ex0.dir/mtm_tot.c.obj"
+  "CMakeFiles/ex0.dir/part1.c.obj"
   "ex0.exe"
   "ex0.exe.manifest"
   "ex0.pdb"

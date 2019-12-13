@@ -56,27 +56,27 @@ include CMakeFiles/ex0.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/ex0.dir/flags.make
 
-CMakeFiles/ex0.dir/mtm_tot.c.obj: CMakeFiles/ex0.dir/flags.make
-CMakeFiles/ex0.dir/mtm_tot.c.obj: ../mtm_tot.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\adi\Desktop\mtm\ex0\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ex0.dir/mtm_tot.c.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ex0.dir\mtm_tot.c.obj   -c C:\Users\adi\Desktop\mtm\ex0\mtm_tot.c
+CMakeFiles/ex0.dir/part1.c.obj: CMakeFiles/ex0.dir/flags.make
+CMakeFiles/ex0.dir/part1.c.obj: ../part1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\adi\Desktop\mtm\ex0\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/ex0.dir/part1.c.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles\ex0.dir\part1.c.obj   -c C:\Users\adi\Desktop\mtm\ex0\part1.c
 
-CMakeFiles/ex0.dir/mtm_tot.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ex0.dir/mtm_tot.c.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\adi\Desktop\mtm\ex0\mtm_tot.c > CMakeFiles\ex0.dir\mtm_tot.c.i
+CMakeFiles/ex0.dir/part1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ex0.dir/part1.c.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\adi\Desktop\mtm\ex0\part1.c > CMakeFiles\ex0.dir\part1.c.i
 
-CMakeFiles/ex0.dir/mtm_tot.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ex0.dir/mtm_tot.c.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\adi\Desktop\mtm\ex0\mtm_tot.c -o CMakeFiles\ex0.dir\mtm_tot.c.s
+CMakeFiles/ex0.dir/part1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ex0.dir/part1.c.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\adi\Desktop\mtm\ex0\part1.c -o CMakeFiles\ex0.dir\part1.c.s
 
 # Object files for target ex0
 ex0_OBJECTS = \
-"CMakeFiles/ex0.dir/mtm_tot.c.obj"
+"CMakeFiles/ex0.dir/part1.c.obj"
 
 # External object files for target ex0
 ex0_EXTERNAL_OBJECTS =
 
-ex0.exe: CMakeFiles/ex0.dir/mtm_tot.c.obj
+ex0.exe: CMakeFiles/ex0.dir/part1.c.obj
 ex0.exe: CMakeFiles/ex0.dir/build.make
 ex0.exe: CMakeFiles/ex0.dir/linklibs.rsp
 ex0.exe: CMakeFiles/ex0.dir/objects1.rsp
