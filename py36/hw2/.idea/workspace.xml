@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c52ac205-f24e-422f-92a3-07d18536da26" name="Default Changelist" comment="part a compleat. part b half way. answers not correct">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+    <list default="true" id="c52ac205-f24e-422f-92a3-07d18536da26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/main2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonFuncs.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonFuncs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Survey.i" beforeDir="false" afterPath="$PROJECT_DIR$/Survey.i" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +101,8 @@
       <workItem from="1576570436883" duration="3665000" />
       <workItem from="1576838231105" duration="600000" />
       <workItem from="1577027918341" duration="795000" />
+      <workItem from="1577181023314" duration="2420000" />
+      <workItem from="1578504431249" duration="599000" />
     </task>
     <task id="LOCAL‎00001" summary="part a compleat. part b half way. answers not correct">
       <created>1576343923307</created>
@@ -105,7 +110,13 @@
       <option name="presentableId" value="LOCAL‎00001" />
       <updated>1576343923307</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎00002" summary="part a compleat. part b half way. answers not correct">
+      <created>1577181068385</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1577181068385</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,10 +148,11 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2489" y="449" key="#xdebugger.evaluate/0.0.1187.720/1920.0.1920.1050@1920.0.1920.1050" timestamp="1576318834183" />
-    <state x="2518" y="121" key="CommitChangelistDialog2" timestamp="1576343939810">
-      <screen x="1920" y="0" width="1920" height="1050" />
+    <state x="352" y="0" key="CommitChangelistDialog2" timestamp="1577181060375">
+      <screen x="0" y="0" width="1187" height="720" />
     </state>
     <state x="2518" y="121" key="CommitChangelistDialog2/0.0.1187.720/1920.0.1920.1050@1920.0.1920.1050" timestamp="1576343939810" />
+    <state x="352" y="0" key="CommitChangelistDialog2/0.0.1187.720@0.0.1187.720" timestamp="1577181060375" />
     <state x="2659" y="282" key="FileChooserDialogImpl" timestamp="1576343443368">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
@@ -193,14 +205,15 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2383" y="170" key="SettingsEditor/0.0.1187.720/1920.0.1920.1050@1920.0.1920.1050" timestamp="1577028481245" />
-    <state x="2472" y="260" key="Vcs.Push.Dialog.v2" timestamp="1576343963850">
-      <screen x="1920" y="0" width="1920" height="1050" />
-    </state>
-    <state x="2472" y="260" key="Vcs.Push.Dialog.v2/0.0.1187.720/1920.0.1920.1050@1920.0.1920.1050" timestamp="1576343963850" />
-    <state x="413" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1577181028156">
+    <state x="341" y="178" key="Vcs.Push.Dialog.v2" timestamp="1577181093704">
       <screen x="0" y="0" width="1187" height="720" />
     </state>
-    <state x="413" y="241" key="com.intellij.ide.util.TipDialog/0.0.1187.720/1920.0.1920.1050@0.0.1187.720" timestamp="1577027941331" />
+    <state x="2472" y="260" key="Vcs.Push.Dialog.v2/0.0.1187.720/1920.0.1920.1050@1920.0.1920.1050" timestamp="1576343963850" />
+    <state x="341" y="178" key="Vcs.Push.Dialog.v2/0.0.1187.720@0.0.1187.720" timestamp="1577181093704" />
+    <state x="413" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1578505715410">
+      <screen x="0" y="0" width="1187" height="720" />
+    </state>
+    <state x="413" y="241" key="com.intellij.ide.util.TipDialog/0.0.1187.720/1920.0.1920.1050@0.0.1187.720" timestamp="1578505715410" />
     <state x="2588" y="352" key="com.intellij.ide.util.TipDialog/0.0.1187.720/1920.0.1920.1050@1920.0.1920.1050" timestamp="1576570524535" />
     <state x="413" y="241" key="com.intellij.ide.util.TipDialog/0.0.1187.720@0.0.1187.720" timestamp="1577181028156" />
   </component>
